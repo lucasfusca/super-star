@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(43, 40, 40);
+}
+
+p {
+    color: rgb(131, 223, 207);
+    font-size: medium;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 150%;
+    font-style: italic;
+}
+
+.pinheiro {
+max-width: 800px
+margin 20px auto;
+padding:20px;
+background-color: rgb(77, 82, 82);
+border-radius: 8px
+}
+
+
+
+
+
+
